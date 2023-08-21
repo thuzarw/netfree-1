@@ -2,8 +2,8 @@
 // version for updating, if there is an update, need to change more numbers than before
 "Version":"1.1",
 //link for server update
-"Url":"https://github.com/KSPVPN/netfree/blob/main/KSPNO.zip?raw=true" ,
-"Changelog":"လိုင်းကောင်းအောင်ဆောင်ရွက်ပေးနေပါတယ် သည်းခံပြီးစောင့်ဆိုင်းပေးပါ
+"Url":"https://github.com/KSPVPN/netfree/blob/main/newovpn.zip?raw=true" ,
+"Changelog":"New vps sever ထည့်ထားပေးပါသည် လိုင်းကောင်းအသုံးပြုနိူင်ရန်အတွက် လိုင်းမကောင်းဖြစ်သည့်အတွက်အနူးအညွှတ်တောင်းပန်ပါတယ်ခင်ဗျ
 ",
 // don't mess with the bottom
 "latestVersion": "1.0.0",
