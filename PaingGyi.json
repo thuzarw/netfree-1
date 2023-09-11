@@ -1,15 +1,22 @@
 {
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
-//link for server update
-"Url":"https://github.com/KSPVPN/netfree/blob/main/painggyi.zip?raw=true" ,
-"Changelog":"ကြိုက်တာရေးထည့်ပါ
-",
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
-  "-Demo"
-    ]
+   "ဖိုင်များ": [    
+
+
+{
+         "အမည်": "TH-VIP-001",
+         "url"- "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh-001.ovpn"
+      }၊
+
+{
+         "အမည်": "TH-VIP-002",
+         "url"- "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh-001.ovpn"
+      }၊
+
+{
+
+      
+]
+"message":"6 စက်တင်ဘာ 2023\n\n•Version:78\n\n•DTAC NoFree ထည့်ပါ\n\n•Facebook: GR VPN\n\n• ဓါတ်ပုံရိုက်အားပေးမှုအတွက်ကျေးဇူးပါ",
+   "title":"✅ VIP ဆာဗာ✅"၊
+    "ဗားရှင်း": 78
 }
