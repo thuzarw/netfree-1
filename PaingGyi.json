@@ -1,23 +1,26 @@
+{
+   "files": [    
+
+
 
 {
-   "ဖိုင်များ": [    
-
-
+         "name": "TH-VIP-01",
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn"
+      }
+,
 {
-         "အမည်": "TH-VIP-001",
-         "url"- "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn"
-      }၊
-
+         "name": "TH-VIP-02",
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-002.ovpn"
+      }   
+,
 {
-         "အမည်": "TH-VIP-002",
-         "url"- "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-002.ovpn"
-      }၊
-
-{
-
+        
       
-]
-"message":"6 စက်တင်ဘာ 2023\n\n•Version:78\n\n•DTAC NoFree ထည့်ပါ\n\n•Facebook: GR VPN\n\n• ဓါတ်ပုံရိုက်အားပေးမှုအတွက်ကျေးဇူးပါ",
-   "title":"✅ VIP ဆာဗာ✅"၊
-    "ဗားရှင်း": 78
+     
+   ],
+"message":"
+မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
+\n\nFb: TinSoeOo",
+"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
+   "version":1
 }
