@@ -2,29 +2,26 @@
    "files": [    
 
 
-
 {
-         "name": "TH-VIP-DTAC-01",
+         "name": "TH-VIP-001",
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn"
       }
-,
+
+
 {
-         "name": "TH-VIP-DTAC-02",
-         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-002.ovpn"
-      }   
-,
+         "name": "TH-VIP-001",
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn"
+}
+
+
 {
-         "name": "TH-VIP-DTAC-03",
-         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-00.ovpn"
-      }   
-,
-  
+         "name": "TH-VIP-001",
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn"
+      }
+
       
-     
    ],
-"message":"
-မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
-\n\nFb: ခွန်းဆက်ပိုင်,
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":1
+"message":"31 August 2022\n\n•Version:5\n\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•Facebook : Khone Set Paing\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+   "title":"✅Add New VIP✅" ,
+   "version": 6
 }
