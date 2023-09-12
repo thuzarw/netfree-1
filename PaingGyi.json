@@ -4,17 +4,17 @@
 
 
 {
-         "name": "TH-VIP-True-03",
+         "name": "TH-VIP-True-Dtac-01",
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn" 
       }   
  ,
 {
-         "name": "TH-VIP-True-04",
+         "name": "TH-VIP-True-Dtac-02",
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-002.ovpn"
       }   
  ,            
  {
-         "name": "TH-VIP-True-05",
+         "name": "TH-VIP-True-Dtac-03",
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-00.ovpn"
       }  
       
@@ -24,5 +24,5 @@
 မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
 \n\nFb: ခွန်းဆက်ပိုင်",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":2
+   "version":3
 }
