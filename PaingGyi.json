@@ -10,12 +10,13 @@
 {
          "name": "TH-VIP-002",
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-002.ovpn"
-      }
+      },
 
 {
          "name": "TH-VIP-003",
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-00.ovpn"
-      },      
+      },     
+     
 
       
 ],
