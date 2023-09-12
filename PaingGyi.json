@@ -12,6 +12,11 @@
          "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-002.ovpn"
       }
 
+{
+         "name": "TH-VIP-003",
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-00.ovpn"
+      },      
+
       
 ],
 "message":"13September 2023\n\n•Version:78\n\n•Add DTAC NoFree\n\n•Facebook : ခွန်းဆက်ပိုင်VPN\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
