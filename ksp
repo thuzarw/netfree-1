@@ -1,8 +1,8 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.2",
+"Version":"1.3",
 //link for server update
-"Url":"https://github.com/KSPVPN/netfree/blob/main/newfil.zip?raw=true" ,
+"Url":"https://github.com/KSPVPN/netfree/blob/main/fil.zip?raw=true" ,
 "Changelog":"New vps sever ထည့်ထားပေးပါသည် လိုင်းကောင်းအသုံးပြုနိူင်ရန်အတွက် ဂိမ်းသမားအတွက်အထူးဂိမ်းဖိုင်လဲပါဝင်ပါတယ်ခင်ဗျဝယ်ယူသုံးစွဲသူမင်းအားလုံးကျေးဇူးအထူးတင်ရှိပါတယ်
 ",
 // don't mess with the bottom
