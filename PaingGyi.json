@@ -5,26 +5,24 @@
 
 {
          "name": "TH-VIP-True-Dtac-01",
-         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/TH-001.ovpn" 
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/dtac1.ovpn"
       }   
  ,
 {
          "name": "TH-VIP-True-Dtac-02",
-         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/ppp.ovpn"
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/dtac2.ovpn"
       }   
  ,            
  {
          "name": "TH-VIP-True-Dtac-03",
-         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/nnnn.ovpn"
+         "url": "https://raw.githubusercontent.com/KSPVPN/netfree/main/dtac3.ovpn"
       }  
       
      
    ],
 "message":"
-မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
-ခွန်းဆက်ပိုင် vpn new severထည့်ထားပါတယ်
-ဝယ်ယူရန် ခွန်းဆက်ပိုင်fbဆက်သွယ်နိူင်ပါတယ်
+dtac 90 day
 \n\nFb: ခွန်းဆက်ပိုင်",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":10.1
+   "version":10.2
 }
